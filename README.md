@@ -1,4 +1,6 @@
-# Portfolio
+# harutokobayashi.github.io
+小林春斗
+
 ## 更新手順
 ### Publication の更新
 `content/authors/publication/_index.md` に追記する。
