@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Haruto Kobayashi'
+date: 2025-02-12
 type: landing
 
 design:
@@ -15,9 +15,9 @@ sections:
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download Résumé
+      #   url: uploads/resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -33,16 +33,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      username: admin
   - block: awards
     content:
       title: Awards
       username: admin
-  - block: languages
+
+  # 少なくともこのテンプレートでは、 blockとして自由な名称を指定できない
+  # username は自由に指定できる
+  # 以上2点から、新たに publication dir を作成し、Publication に関わる情報は publication/_index.md 内の awards に記載することにした
+  - block: awards
     content:
-      title: Languages
-      username: admin
+      title: Publications
+      username: publication
 ---
