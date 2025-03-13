@@ -128,6 +128,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 若手奨励賞（20/487, 4.1%）
+    url: https://anlp.jp/nlp2025/award.html#:~:text=層の冗長,斗(東北大)
+    date: '2025-03-13'
+    awarder: 言語処理学会第31回年次大会（NLP2025）
+    icon: ''
   - title: 奨励賞（23/187, 12.2%）
     url: https://yans.anlp.jp/entry/award
     date: '2024-09-04'
