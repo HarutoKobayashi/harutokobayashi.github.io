@@ -38,7 +38,7 @@ education:
   - area: 電気情報物理工学科 情報コース
     institution: 東北大学工学部
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2025-03-31'
     summary: |
       坂口・乾研究室所属．
   # - area: PhD Artificial Intelligence
@@ -128,6 +128,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 工学部長賞（26/955, 2.7%）
+    date: '2025-03-24'
+    awarder: 東北大学 工学部
+    icon: ''
   - title: 若手奨励賞（20/487, 4.1%）
     url: https://anlp.jp/nlp2025/award.html#:~:text=層の冗長,斗(東北大)
     date: '2025-03-13'
