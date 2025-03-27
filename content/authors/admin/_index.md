@@ -129,6 +129,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 工学部長賞（26/955, 2.7%）
+    url: https://www.eng.tohoku.ac.jp/news/detail-,-id,3155.html
     date: '2025-03-24'
     awarder: 東北大学 工学部
     icon: ''
