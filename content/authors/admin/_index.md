@@ -134,7 +134,7 @@ awards:
   - title: 工学部長賞（26/955, 2.7%）
     url: https://www.eng.tohoku.ac.jp/news/detail-,-id,3155.html
     date: '2025-03-24'
-    awarder: 東北大学 工学部
+    awarder: 東北大学工学部
     icon: ''
   - title: 若手奨励賞（20/487, 4.1%）
     url: https://anlp.jp/nlp2025/award.html#:~:text=層の冗長,斗(東北大)

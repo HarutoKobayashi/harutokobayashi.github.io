@@ -33,16 +33,17 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: awards
-    content:
-      title: Awards
-      username: admin
 
   # 少なくともこのテンプレートでは、 blockとして自由な名称を指定できない
   # username は自由に指定できる
   # 以上2点から、新たに publication dir を作成し、Publication に関わる情報は publication/_index.md 内の awards に記載することにした
   - block: awards
     content:
-      title: Publications
+      title: Domestic Conferences / Symposium
       username: publication
+
+  - block: awards
+    content:
+      title: Awards
+      username: admin
 ---
