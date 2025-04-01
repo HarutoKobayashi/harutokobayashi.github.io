@@ -35,18 +35,15 @@ profiles:
     url: https://github.com/HarutoKobayashi
 
 education:
-  - area: 工学部
-    institution: 東北大学
+  - area: 東北大学工学部
+    institution: 電気情報物理工学科 情報コース
     date_start: '2021-04-01'
     date_end: '2025-03-31'
-    summary: |
-      坂口・乾研究室所属．
-  - area: システム情報科学専攻 修士課程
-    institution: 東北大学大学院情報科学研究科
+  - area: 東北大学大学院情報科学研究科
+    institution: システム情報科学専攻 修士課程
     date_start: '2025-04-01'
     date_end: ''
-    summary: |
-      坂口・乾研究室所属．
+    # summary:
   # - area: PhD Artificial Intelligence
   #   institution: Stanford University
   #   date_start: 2016-01-01
