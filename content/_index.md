@@ -43,8 +43,13 @@ sections:
       title: Awards
       username: awards
 
-  - block: work
+  - block: experience
     content:
       title: Activities
       username: activities
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
 ---
