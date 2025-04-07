@@ -14,10 +14,6 @@ sections:
   - block: biography
     content:
       username: admin
-      # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download Résumé
-      #   url: uploads/resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -27,12 +23,12 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
-      username: admin
+      username: edu_and_work
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
 
   # 少なくともこのテンプレートでは、 blockとして自由な名称を指定できない
   # username は自由に指定できる
@@ -45,5 +41,10 @@ sections:
   - block: awards
     content:
       title: Awards
-      username: admin
+      username: awards
+
+  - block: work
+    content:
+      title: Activities
+      username: activities
 ---
