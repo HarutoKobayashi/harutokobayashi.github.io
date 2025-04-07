@@ -43,9 +43,9 @@ sections:
       title: Awards
       username: awards
 
-  - block: awards
-    content:
-      title: Activities
-      username: activities
+  # - block: awards
+  #   content:
+  #     title: Activities
+  #     username: activities
 
 ---
