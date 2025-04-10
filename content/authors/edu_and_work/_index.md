@@ -25,13 +25,13 @@ education:
   #   summary: |
   #     GPA: 3.8/4.0
 
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
+work:
+  - position: Research Assistant
+    company_name: 東北大学
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-04-01
+    date_end: ''
 #     summary: |2-
 #       Responsibilities include:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
