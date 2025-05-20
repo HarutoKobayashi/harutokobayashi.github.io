@@ -1,5 +1,5 @@
 # harutokobayashi.github.io
-小林春斗
+[小林春斗のホームページ](https://harutokobayashi.github.io/) ☕️
 
 ## 更新手順
 ### Publication の更新
