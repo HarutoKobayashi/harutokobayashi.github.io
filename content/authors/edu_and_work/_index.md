@@ -26,12 +26,17 @@ education:
   #     GPA: 3.8/4.0
 
 work:
-  - position: Research Assistant
-    company_name: 東北大学
+  - position: 東北大学
+    company_name: Research Assistant
     company_url: ''
     company_logo: ''
     date_start: 2025-04-01
     date_end: ''
+  - position: 株式会社PKSHA Technology
+    company_name: Algorithm Engineer (Summer Internship)
+    company_logo: ''
+    date_start: 2025-07-28
+    date_end: 2025-08-08
 #     summary: |2-
 #       Responsibilities include:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
