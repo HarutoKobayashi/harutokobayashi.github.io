@@ -37,6 +37,11 @@ work:
     company_logo: ''
     date_start: 2025-07-28
     date_end: 2025-08-08
+  - position: フューチャー株式会社
+    company_name: Engineer (Summer Internship)
+    company_logo: ''
+    date_start: 2025-08-18
+    date_end: 2025-09-12
 #     summary: |2-
 #       Responsibilities include:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
